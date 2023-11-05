@@ -1,0 +1,30 @@
+.popup-inner {
+  border-radius: 10px;
+  box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+  /* top: 10%; */
+  left: 35%;
+  top: 10%;
+  position: fixed;
+  padding: 32px;
+  width: 640px;
+  height: 623px;
+  max-width: 60%;
+  background-color: #fff;
+  z-index: 9;
+  overflow-y: scroll;
+}
+
+.btn-close {
+  position: fixed;
+  background-color: #fff;
+  border: none;
+  float: right;
+  cursor: pointer;
+}
+
+.close-btn-container {
+  display: flex;
+  justify-content: end;
+  align-items: end;
+  margin-top: 20px;
+}

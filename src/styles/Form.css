@@ -1,0 +1,39 @@
+/* MyForm.css */
+form {
+  max-width: 100%;
+  /* margin: 0 auto; */
+}
+
+.form-group {
+  margin-bottom: 15px;
+}
+
+label {
+  display: block;
+  font-weight: bold;
+  float: left;
+}
+
+input[type="text"],
+select {
+  width: 100%;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 8px;
+}
+
+.radio-group {
+  display: inline-flex;
+  margin-right: 10px;
+  float: left;
+  margin-bottom: 32px;
+}
+
+button {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  cursor: pointer;
+}

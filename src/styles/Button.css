@@ -1,0 +1,22 @@
+.custom-button {
+  display: flex;
+  align-items: center;
+  color: rgb(0, 0, 0);
+  padding: 10px 20px;
+  cursor: pointer;
+  background-color: white;
+  border: 1px solid #c8c6d0;
+  height: 50px;
+  width: 187px;
+  border-radius: 5px;
+  background-color: #ffd803;
+}
+
+.add-icon {
+  margin-right: 10px;
+}
+
+.custom-button:hover {
+  background-color: #0056b3;
+  color: white;
+}

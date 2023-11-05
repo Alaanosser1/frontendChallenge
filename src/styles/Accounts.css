@@ -1,0 +1,24 @@
+.accounts-main {
+  max-width: 100%;
+  margin-bottom: 300px;
+}
+
+.accounts-text {
+  max-width: 289px;
+  margin: 32px;
+}
+
+.accounts-secondary-text {
+  color: #7a778f;
+}
+.accounts-primary-text {
+  font-weight: bold;
+}
+
+.add-btn {
+  width: 100%;
+  margin-top: 32px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
