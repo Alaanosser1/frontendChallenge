@@ -12,7 +12,7 @@ import { ReactComponent as Lifeboy } from "../assets/images/lifeboy.svg";
 const data = [
   { link: "", label: "Home", icon: HomeSvg },
   { link: "/accounts", label: "Accounts", icon: RowVertical },
-  { link: "", label: "Workspaces", icon: SliderHorizontal },
+  { link: "workspaces", label: "Workspaces", icon: SliderHorizontal },
   { link: "", label: "Account", icon: UserOctagon },
 ];
 
